@@ -1,0 +1,8 @@
+requests
+customtkinter
+os
+json
+queue
+threading
+CTkMessagebox
+tkinter
