@@ -1,3 +1,0 @@
-https://api.nasdaq.com/api/analyst/AAPL/earnings-date
-https://api.nasdaq.com/api/quote/AAPL/info?assetclass=stocks
-https://api.nasdaq.com/api/quote/AAPL/summary?assetclass=stocks
